@@ -3,7 +3,7 @@
 </p>
 
 # PhiloBots
-→ Ici vous pourrez trouver des liens menant à des I.A. **entraînés sur les œuvres complètes** des philosophes.
+→ Ici vous pourrez trouver des liens menant à des I.A. **entraînées sur les œuvres complètes** des philosophes.
 
 ? L'idée c'est de pouvoir vous laisser discuter avec les philosophes via I.A. tout en étant sûr de ce que le bot vous raconte.
 
