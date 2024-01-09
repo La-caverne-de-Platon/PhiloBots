@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" height="200" src="https://i.imgur.com/FfRpb5W.png" alt="PhiloBots">
+</p>
+
 # PhiloBots
 → Ici vous pourrez trouver des liens menant à des I.A. **entraînés sur les œuvres complètes** des philosophes.
 
