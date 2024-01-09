@@ -97,6 +97,7 @@
   - hobbes_behemoth.pdf
   - dialogue_philo_common_law.pdf
 - Rousseau : https://poe.com/Rousse-aiu
+  - contrat-social.pdf 
   - projet_corse.pdf
   - discours_eco_pol.pdf
   - origine_des_langues.pdf
