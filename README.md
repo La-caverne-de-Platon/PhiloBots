@@ -120,7 +120,7 @@
   - Lorigine-de-la-tragédie.pdf
   - Le-gai-savoir-1887.pdf
   - nietzsche_zarathoustra.pdf
-- Martin Heidegger
+- Martin Heidegger : https://poe.com/H-aidegger
   - Quappelle-t-on penser (Martin Heidegger, Quadrige).pdf
   - Introduction à la métaphysique (Martin Heidegger, Gilbert Kahn).pdf
   - Quest-ce quune chose (Martin Heidegger).pdf
