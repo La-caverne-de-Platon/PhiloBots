@@ -120,6 +120,15 @@
   - Lorigine-de-la-tragédie.pdf
   - Le-gai-savoir-1887.pdf
   - nietzsche_zarathoustra.pdf
+- Martin Heidegger
+  - Quappelle-t-on penser (Martin Heidegger, Quadrige).pdf
+  - Introduction à la métaphysique (Martin Heidegger, Gilbert Kahn).pdf
+  - Quest-ce quune chose (Martin Heidegger).pdf
+  - Chemins qui ne mènent nulle part (Martin Heidegger).pdf
+  - Vers une définition de la philosophie (Martin Heidegger).pdf
+  - Pensées directrices (Martin Heidegger).pdf
+  - Le commencement de la philosophie occidentale (Martin Heidegger).pdf
+  - Être et temps trad Martineau.pdf
 - Sartre : https://poe.com/S-airtre
   - L'Etre et Le Neant.txt
   - L'existentialisme est un humanisme.txt 
