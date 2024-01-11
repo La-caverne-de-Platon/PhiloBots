@@ -129,6 +129,10 @@
   - Pensées directrices (Martin Heidegger).pdf
   - Le commencement de la philosophie occidentale (Martin Heidegger).pdf
   - Être et temps trad Martineau.pdf
+  - Kant et le problème de la métaphysique (Martin Heidegger).pdf
+  - Le commencement de la philosophie occidentale. Interprétation d Anaximandre et de Parménide (Martin Heidegger).pdf
+  - Interprétations phénoménologiques en vue d Aristote (Martin Heidegger).pdf
+  - La question de la technique (Martin Heidegger [Heidegger, Martin]).pdf
 - Sartre : https://poe.com/S-airtre
   - L'Etre et Le Neant.txt
   - L'existentialisme est un humanisme.txt 
