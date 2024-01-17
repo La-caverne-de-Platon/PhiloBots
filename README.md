@@ -12,3 +12,5 @@
 
 ## Liste des philosophes :
 ` Épicure, Socrate, Platon, Aristote, Spinoza, Kant, Descartes, Rousseau, Hume, Hegel, Schopenhauer, Nietzsche, Sartre, Arendt, Wittgenstein `
+
+Accéder aux bots ici → https://poe.com/Platon001
